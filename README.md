@@ -3,13 +3,20 @@ Project Title: Purchases Tracker App
 Project Description: Purchases Tracker is a simple application, it allows users to record, manage, and monitor their personal purchases. Users can create an account, log in, and keep track of their orders including the item name, price, date, and delivery status. 
 
 The app includes the following features:
-• User registration and login
-• Add, edit, and delete purchase entries
-• Mark orders as To Receive or Arrived
-• Live search bar to filter purchases by item name
-• Filter tabs: All, To Receive, Arrived
-• Dashboard showing Total Spent, Orders count, and Arrived count
-• Form validation — empty fields and negative prices are not allowed
+
+  • User registration and login
+  
+  • Add, edit, and delete purchase entries
+  
+  • Mark orders as To Receive or Arrived
+  
+  • Live search bar to filter purchases by item name
+  
+  • Filter tabs: All, To Receive, Arrived
+  
+  • Dashboard showing Total Spent, Orders count, and Arrived count
+  
+  • Form validation — empty fields and negative prices are not allowed
 
 Detailed System Flow
 1. App Launch
